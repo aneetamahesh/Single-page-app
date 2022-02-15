@@ -10,6 +10,6 @@
     {"ID":9, "Name":"Sain", "Designation":"Goalkeeper", "Totalgames": 0,  "Address": "Addresslane9", "Phone": 8281760314, "Salary":40000 }, 
     {"ID":10, "Name":"Isabel", "Designation":"Kicker", "Totalgames": 0,  "Address": "Addresslane10", "Phone": 8281459634, "Salary":37000 },
     {"ID":11, "Name":"Ayana", "Designation":"Midfielder", "Totalgames": 4,  "Address": "Addresslane11", "Phone":864794425 , "Salary": 56000},
-    {"ID":12, "Name":"Raynould", "Designation":"Fielder", "Totalgames": 15,  "Address": "Addresslane12", "Phone": 8692117526, "Salary": 48000}
+    {"ID":12, "Name":"Ashwin", "Designation":"Fielder", "Totalgames": 15,  "Address": "Addresslane12", "Phone": 8692117526, "Salary": 48000}
     
 ]}
